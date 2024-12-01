@@ -1,0 +1,13 @@
+header, main, footer {
+		margin: 0 auto;
+		text-align: justify;
+		width: 800px;
+}
+
+h1, h2, h3 {
+		text-align: center;
+}
+
+ul, li {
+		text-align: left;
+}
